@@ -18,3 +18,10 @@ double product3 = i1 * d1;
 Console.WriteLine(product);
 Console.WriteLine(product2);
 Console.WriteLine(product3);
+
+double quotient = i1 / i1;
+long quotient2 = i1 / l1;
+double quotient3 = i1 / d1;
+Console.WriteLine(quotient);
+Console.WriteLine(quotient2);
+Console.WriteLine(quotient3);
